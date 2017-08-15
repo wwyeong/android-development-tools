@@ -191,3 +191,7 @@ This plugin for Android Studio lets you get access to all Material Design Icons 
 
 ![picture](https://techbeacon.com/sites/default/files/styles/inline_image/public/material_design_icons.png?itok=cWcNCiEn)
 
+### Author
+The following article is originally summarize by [Aritra Roy](https://github.com/aritraroy)
+
+For more information please visit https://techbeacon.com/code-pro-31-tools-android-app-developers
